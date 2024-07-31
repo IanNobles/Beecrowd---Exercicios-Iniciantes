@@ -1,3 +1,5 @@
 1002 - Atualmente, este é o exercício mais complicado até agora. Eu sabia a lógica para resolver o problema, porém, não sabia fazer a sintaxe do problema em Python. Por causa disso, acabei tendo que pesquisar como fazer potência em Python e descobri dois métodos: usando a biblioteca math com a sintaxe math.pow e outro jeito usando a sintaxe ** para o cálculo de potência.
 
 1006 - Foi um exercício fácil, porém acabei errando a sintaxe da saída do exercício. Tentei pesquisar onde estava o erro e descobri a forma antiga de limitar o número flutuante depois do ponto usando o %, pois antes eu só sabia usar o f-string.
+
+1008 - Exercicio interessante. Terminando a sintaxe e rodando o arquivo, percebi que dava erro. A variável que declarei como int para realizar o cálculo tinha que ser convertida para float.
